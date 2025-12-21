@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "melt bitter",
+  "base_artist": "さとうもか",
+  "createdAt": "2025-12-21T16:32:58.419881Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Melt Bitter",
+      "artist": "Moka Sato",
+      "has_synced": true,
+      "path": "select/01_Melt_Bitter_Moka_Sato.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "melt bitter",
+      "artist": "Sato Moka",
+      "has_synced": false,
+      "path": "select/02_melt_bitter_Sato_Moka.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Melt Bitter (Album Ver.)",
+      "artist": "さとうもか",
+      "has_synced": true,
+      "path": "select/03_Melt_Bitter_(Album_Ver.)_さとうもか.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Melt Bitter",
+      "artist": "satomoka",
+      "has_synced": true,
+      "path": "select/04_Melt_Bitter_satomoka.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "melt bitter",
+      "artist": "さとうもか",
+      "has_synced": true,
+      "path": "select/05_melt_bitter_さとうもか.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "melt bitter",
+      "artist": "satomoka",
+      "has_synced": true,
+      "path": "select/06_melt_bitter_satomoka.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "melt bitter - Album ver.",
+      "artist": "satomoka",
+      "has_synced": false,
+      "path": "select/07_melt_bitter_-_Album_ver._satomoka.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Melt Bitter (Woolly Version)",
+      "artist": "satomoka",
+      "has_synced": true,
+      "path": "select/08_Melt_Bitter_(Woolly_Version)_satomoka.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "melt bitter",
+      "artist": "さとうもか",
+      "has_synced": false,
+      "path": "select/pl_01_melt_bitter_さとうもか.txt"
+    }
+  ]
+}
